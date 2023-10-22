@@ -18,7 +18,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## Screenshot
-![image](https://github.com/Rajat8382/manufac-assignment/assets/29524130/f6a5424b-c03e-4ce5-a46c-8e1416fcc3c1)
+![image](https://github.com/Rajat8382/manufac-assignment/assets/29524130/17136eb3-fb48-474e-9ae2-2425ef9f9d01)
 
 ## Description 
 Projects contain the main container folder `Home` which calls two components `FlavanoidsTable` and `GammaTable` which render their table respectively.
